@@ -14,11 +14,6 @@ end;
 y1
 PresneReseni = 0.1*exp(3*T); % nahodou zname presne reseni
 
-% pridavam novy kod
-
-t = 7;
-
-
 
 function z = f(x,y)
 z = 3*y;
